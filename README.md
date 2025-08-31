@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Gustavo!</h1>
 
 <p align="center">
-💻 Desenvolvedor focado em <b>Back-end</b> (Java, Kotlin). <br>
+💻 Desenvolvedor focado em <b>Back-end</b>. <br>
 📚 Estudando: <b>Spring Boot, Estruturas de Dados e Algoritmos</b>. <br>
 🚀 Buscando evoluir com projetos práticos e desafios como <b>Beecrowd</b> e <b>LeetCode</b>. 
 </p>
